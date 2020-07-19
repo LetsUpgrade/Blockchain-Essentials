@@ -1,0 +1,24 @@
+Assignment-1 Day -1
+Blockchain Essentials:-
+1.what is your understanding of blockchain?
+And. Blockchain is series of chain of blocks which contains data and it is tamper-proof I e unhackable it's a property which makes it so powerful. It is based on two principles---1.cryptography ---2.distrubutive technology
+
+2.what is the core problem blockchain trying to solve?
+As data is the most important for any company so making it centralized makes it more towards hacking so blockchain provides decentralized platform 
+It also solves the problem of double spending
+It also makes it unhackable
+It also works on authenticity of data
+3. What are the few features which blockchain will give you?
+Ans
+.1. Immutable data
+ 2.decentralisation
+3.transparency across users
+4.tamper-proof data
+
+4.what all things does a block contain?
+Ans. Own hash number--previous hash number---time stamp---data--mining key
+
+5.how is the verifiability of blockchain been attained?
+Ans. Firstly it is a series of cryptographic hashes so one change can change all the hashes so it is difficult to tamper.
+Secondly it is distributed ledger which means everyone will have a copy of data so if we will delete it or our data is lost we can take same copy from others.
+
