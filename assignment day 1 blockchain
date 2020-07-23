@@ -1,0 +1,26 @@
+1. What is your understanding of Blockchain ?
+• Blockchain is a secured method of storing data and preserving it from tampering.
+• It is a mix of technology – Distributed database (to store data in different users) and cryptography (to preserve the stored data from tampering and security issues).
+• An alternative for SQL ledgers, way for Internet 2.0.
+
+2. What is the core problem Block chain is trying to solve?
+• To eradicate the problems of internet such as Authenticity (fake information), Security (loopholes for hackers), Third party Middleman - Cryptography.
+• It preserves the data by hashing with use of cryptography and data lose/ misinterpretation of data by distributed database.
+
+3. What are the features of Block chain?
+• Hashing (Secure Fingerprint for all data).
+• Distributed database (store data in different places).
+• Decentralized technology.
+• Eradication of middleman.
+• Eliminates update, delete in current SQL methods.
+
+4. What all things a Block contains?
+• Block Number.
+• Hash (Fingerprint).
+• Data.
+• Mining Key.
+
+5. How is the verifiability of Blockchain is been attained ?
+Blockchain uses hash for data verification. Since it is a decentralized technology and uses distributed database, millions of computer holds copies of data block. 
+ If anyone tries to tamper the data present inside his/her computer the hash key will change for the particular block in that particular computer. Thus it will be figured out when hash key of that tampered data doesn’t match with other copies of data stored in distributed servers.
+
